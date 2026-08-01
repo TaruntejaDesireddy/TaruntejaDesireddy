@@ -1,10 +1,10 @@
 <div align="center">
 
-# Tarun Teja Desireddy
+# Tarun Teja
 
-**SOC Analyst (L2/L3) · Microsoft Sentinel · Detection Engineering**
+**Senior Cyber Security Analyst (L2/L3) · Microsoft Sentinel · Detection Engineering**
 
-Doha, Qatar — 4+ years in a 24/7 MSSP SOC, multi-tenant Azure Lighthouse
+ 4+ years in a 24/7 MSSP SOC, multi-tenant Azure Lighthouse
 
 [![AZ-500](https://img.shields.io/badge/AZ--500-Security%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
 [![SC-200](https://img.shields.io/badge/SC--200-Security%20Operations-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
