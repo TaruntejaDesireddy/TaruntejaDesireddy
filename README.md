@@ -1,10 +1,9 @@
 <div align="center">
 
-# Tarun Teja
+# Tarun Teja Reddy
 
-**Senior Cyber Security Analyst (L2/L3) · Microsoft Sentinel · Detection Engineering**
+**Senior Cyber Security Analyst · Microsoft Sentinel · Detection Engineering**
 
- 4+ years in a 24/7 MSSP SOC, multi-tenant Azure Lighthouse
 
 [![AZ-500](https://img.shields.io/badge/AZ--500-Security%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
 [![SC-200](https://img.shields.io/badge/SC--200-Security%20Operations-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
@@ -25,7 +24,7 @@ Day to day, this is real-incident work across a multi-tenant government/critical
 
 | | |
 |---|---|
-| 🔎 **Incident investigation (L2/L3)** | Confirmed compromises, BEC, lateral movement, honeytoken triggers |
+| 🔎 **Incident investigation** | Confirmed compromises, BEC, lateral movement, honeytoken triggers |
 | 📝 **KQL detection engineering** | Analytics rules, NRT rules, entity mapping — written without AI assistance |
 | 🎯 **Threat hunting** | 58+ MITRE ATT&CK-mapped hunt packages |
 | 📊 **Sentinel workbooks** | Multi-tenant live dashboards, custom panels, IP pivot views |
