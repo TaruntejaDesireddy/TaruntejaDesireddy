@@ -4,10 +4,10 @@
 
 **Blue Team Security Engineer · Microsoft Azure Security Specialist**
 
-[![Email](https://img.shields.io/badge/email-tarunteja.desireddy9%40gmail.com-24292e?style=flat-square)](mailto:tarunteja.desireddy9@gmail.com)
-[![AZ--500](https://img.shields.io/badge/AZ--500-Security%20Engineer-24292e?style=flat-square)](#)
-[![SC--200](https://img.shields.io/badge/SC--200-Security%20Operations-24292e?style=flat-square)](#)
-[![Google%20SecOps](https://img.shields.io/badge/Google%20SecOps-Chronicle-24292e?style=flat-square)](#)
+[![Email](https://img.shields.io/badge/email-tarunteja.desireddy9%40gmail.com-24292e?style=flat-square&logo=gmail&logoColor=white)](mailto:tarunteja.desireddy9@gmail.com)
+[![AZ--500](https://img.shields.io/badge/AZ--500-Security%20Engineer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](#)
+[![SC--200](https://img.shields.io/badge/SC--200-Security%20Operations-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](#)
+[![Google%20SecOps](https://img.shields.io/badge/Google%20SecOps-Chronicle-4285F4?style=flat-square&logo=google&logoColor=white)](#)
 
 </div>
 
@@ -53,8 +53,16 @@ Currently deepening: SOAR/Logic Apps automation, data connector configuration, B
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TaruntejaDesireddy&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117" alt="GitHub stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaruntejaDesireddy&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" alt="Top languages" height="160"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TaruntejaDesireddy&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TaruntejaDesireddy&show_icons=true&count_private=true&hide_border=true&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api?username=TaruntejaDesireddy&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub stats" height="160"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TaruntejaDesireddy&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TaruntejaDesireddy&layout=compact&hide_border=true&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaruntejaDesireddy&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160"/>
+</picture>
 
 </div>
 
