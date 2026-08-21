@@ -53,8 +53,8 @@ Currently deepening: SOAR/Logic Apps automation, data connector configuration, B
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TaruntejaDesireddy&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaruntejaDesireddy&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TaruntejaDesireddy&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117" alt="GitHub stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaruntejaDesireddy&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" alt="Top languages" height="160"/>
 
 </div>
 
