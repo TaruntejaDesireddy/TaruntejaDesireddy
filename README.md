@@ -24,9 +24,9 @@ Proof of the SIEM side of the job: architecting and deploying from zero, not jus
 
 | Project | What it is |
 |---|---|
-| **[sentinel-soc-lab](https://github.com/TaruntejaDesireddy/sentinel-soc-lab)** | A full Microsoft Sentinel environment defined as Bicep IaC — workspace, data connectors, DCRs, and RBAC, deployed with one command and documented with a real build log, gotchas included |
 | **[cybersoc-portfolio](https://github.com/TaruntejaDesireddy/cybersoc-portfolio)** | Detection-and-response content mapped to MITRE ATT&CK — analytics rules paired with matching SOAR playbooks, authenticated end to end via managed identity |
 | **[sentinel-workbooks](https://github.com/TaruntejaDesireddy/sentinel-workbooks)** | Hunt & Investigate and SOC Overview dashboards built against genuine lab telemetry, not vendor sample data |
+| **sentinel-soc-lab** *(private)* | The underlying Bicep IaC deploy for the lab above — workspace, connectors, DCRs, RBAC, one command. Kept private since the build log documents real subscription and tenant details |
 
 **Currently deepening:** SOAR/Logic Apps automation · data connector configuration · Bicep/ARM · working toward **SC-300**
 
@@ -87,6 +87,12 @@ What the day job actually consists of:
 ---
 
 <div align="center">
+
+### Let's talk
+
+Open to conversations about SOC engineering, detection content, or Azure security roles.
+
+[![Email](https://img.shields.io/badge/-tarunteja.desireddy9%40gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:tarunteja.desireddy9@gmail.com)
 
 <sub>Everything linked here is real, deployed, and tested — not a template.</sub>
 
