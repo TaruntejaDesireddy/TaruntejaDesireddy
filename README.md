@@ -20,13 +20,13 @@ Security engineer specializing in **defensive operations on Microsoft Azure** �
 
 ## 🚀 Featured Work
 
-Deploying and architecting a SIEM from zero, not just operating on top of one — closing the gaps a client-managed environment doesn't expose you to.
+Proof of the SIEM side of the job: architecting and deploying from zero, not just operating on top of what a client already built.
 
 | Project | What it is |
 |---|---|
-| **[sentinel-soc-lab](https://github.com/TaruntejaDesireddy/sentinel-soc-lab)** | Personal SIEM lab as Bicep IaC — workspace, connectors, DCRs, RBAC, one-command deploy, full build log with real gotchas |
-| **[cybersoc-portfolio](https://github.com/TaruntejaDesireddy/cybersoc-portfolio)** | MITRE-mapped analytics rules and SOAR playbooks — Logic Apps, managed-identity auth, zero stored credentials |
-| **[sentinel-workbooks](https://github.com/TaruntejaDesireddy/sentinel-workbooks)** | Hunt & Investigate and SOC Overview dashboards, built against real lab data, not templates |
+| **[sentinel-soc-lab](https://github.com/TaruntejaDesireddy/sentinel-soc-lab)** | A full Microsoft Sentinel environment defined as Bicep IaC — workspace, data connectors, DCRs, and RBAC, deployed with one command and documented with a real build log, gotchas included |
+| **[cybersoc-portfolio](https://github.com/TaruntejaDesireddy/cybersoc-portfolio)** | Detection-and-response content mapped to MITRE ATT&CK — analytics rules paired with matching SOAR playbooks, authenticated end to end via managed identity |
+| **[sentinel-workbooks](https://github.com/TaruntejaDesireddy/sentinel-workbooks)** | Hunt & Investigate and SOC Overview dashboards built against genuine lab telemetry, not vendor sample data |
 
 **Currently deepening:** SOAR/Logic Apps automation · data connector configuration · Bicep/ARM · working toward **SC-300**
 
@@ -34,14 +34,16 @@ Deploying and architecting a SIEM from zero, not just operating on top of one �
 
 ## 🎯 Focus Areas
 
+What the day job actually consists of:
+
 | | Area | In practice |
 |:---:|:---|:---|
-| 🔎 | **Incident Investigation** | Confirmed compromises, BEC, lateral movement, honeytoken triggers — worked end to end, not just triaged |
-| 📝 | **Detection Engineering** | KQL analytics rules, NRT rules, entity mapping — written without AI assistance |
-| 🎯 | **Threat Hunting** | 58+ MITRE ATT&CK-mapped hunt packages, run proactively |
-| 📊 | **SIEM Workbooks** | Multi-tenant live dashboards, custom panels, IP pivot views built for analysts |
-| 🛰️ | **Threat Intelligence** | IOC ingestion, bulk import, deduplication across live feeds |
-| 🔐 | **SOAR Automation** | Logic Apps playbooks, managed-identity auth, zero stored credentials |
+| 🔎 | **Incident Investigation** | Own confirmed compromises end to end — BEC, lateral movement, honeytoken triggers — from first alert to closure, not just triage |
+| 📝 | **Detection Engineering** | Author KQL analytics and NRT rules with full entity mapping, hand-written rather than AI-generated |
+| 🎯 | **Threat Hunting** | Run 58+ MITRE ATT&CK-mapped hunt packages proactively, ahead of an alert firing |
+| 📊 | **SIEM Workbooks** | Build multi-tenant dashboards analysts actually work from during an investigation, not demo screenshots |
+| 🛰️ | **Threat Intelligence** | Operate IOC ingestion and deduplication pipelines across multiple live feeds |
+| 🔐 | **SOAR Automation** | Ship Logic Apps playbooks authenticated by managed identity, with zero stored credentials |
 
 <br/>
 
