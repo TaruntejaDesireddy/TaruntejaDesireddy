@@ -4,71 +4,57 @@
 
 **Blue Team Security Engineer · Microsoft Azure Security Specialist**
 
-
-[![AZ-500](https://img.shields.io/badge/AZ--500-Security%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
-[![SC-200](https://img.shields.io/badge/SC--200-Security%20Operations-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
-[![Google SecOps](https://img.shields.io/badge/Google%20SecOps-Chronicle-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
-
-<br/>
-
-[![Email](https://img.shields.io/badge/-tarunteja.desireddy9%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarunteja.desireddy9@gmail.com)
+[![Email](https://img.shields.io/badge/email-tarunteja.desireddy9%40gmail.com-24292e?style=flat-square)](mailto:tarunteja.desireddy9@gmail.com)
+[![AZ--500](https://img.shields.io/badge/AZ--500-Security%20Engineer-24292e?style=flat-square)](#)
+[![SC--200](https://img.shields.io/badge/SC--200-Security%20Operations-24292e?style=flat-square)](#)
+[![Google%20SecOps](https://img.shields.io/badge/Google%20SecOps-Chronicle-24292e?style=flat-square)](#)
 
 </div>
 
-<br/>
+---
 
-## 🛡️ What I actually do
+## Summary
 
-Day-to-day blue team work: real-incident response across a multi-tenant government/critical-infrastructure client base, built on Microsoft Azure security tooling:
+Security engineer specializing in defensive operations on Microsoft Azure — incident investigation, KQL-based detection engineering, and threat hunting across a multi-tenant government and critical-infrastructure client base. Outside client work, building and open-sourcing a personal Azure SIEM lab from the ground up: infrastructure as code, custom detections, and SOAR automation — deployed and tested, not templated.
 
-| | |
+## Focus areas
+
+| Area | Detail |
 |---|---|
-| 🔎 **Incident investigation** | Confirmed compromises, BEC, lateral movement, honeytoken triggers |
-| 📝 **KQL detection engineering** | Analytics rules, NRT rules, entity mapping — written without AI assistance |
-| 🎯 **Threat hunting** | 58+ MITRE ATT&CK-mapped hunt packages |
-| 📊 **SIEM workbooks** | Multi-tenant live dashboards, custom panels, IP pivot views |
-| 🛰️ **Threat intel pipeline** | IOC ingestion, bulk import, dedup workflows |
+| Incident investigation | Confirmed compromises, BEC, lateral movement, honeytoken triggers |
+| Detection engineering | KQL analytics rules, NRT rules, entity mapping — written without AI assistance |
+| Threat hunting | 58+ MITRE ATT&CK-mapped hunt packages |
+| SIEM workbooks | Multi-tenant live dashboards, custom panels, IP pivot views |
+| Threat intelligence | IOC ingestion, bulk import, deduplication workflows |
 
-## 🚀 What I'm building right now
+## Currently building
 
-Closing the gaps a client-managed environment doesn't expose you to — deploying and architecting a SIEM from zero, not just operating on top of it:
+Deploying and architecting a SIEM from zero, not just operating on top of one — closing the gaps a client-managed environment doesn't expose you to.
 
-<div align="center">
-
-[![sentinel-soc-lab](https://github-readme-stats.vercel.app/api/pin/?username=TaruntejaDesireddy&repo=sentinel-soc-lab&theme=default&hide_border=true)](https://github.com/TaruntejaDesireddy/sentinel-soc-lab)
-[![cybersoc-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=TaruntejaDesireddy&repo=cybersoc-portfolio&theme=default&hide_border=true)](https://github.com/TaruntejaDesireddy/cybersoc-portfolio)
-[![sentinel-workbooks](https://github-readme-stats.vercel.app/api/pin/?username=TaruntejaDesireddy&repo=sentinel-workbooks&theme=default&hide_border=true)](https://github.com/TaruntejaDesireddy/sentinel-workbooks)
-
-</div>
-
-- **[sentinel-soc-lab](https://github.com/TaruntejaDesireddy/sentinel-soc-lab)** — a personal SIEM lab as Bicep IaC: workspace, connectors, DCRs, RBAC, one-command deploy, full build log with real gotchas
-- **[cybersoc-portfolio](https://github.com/TaruntejaDesireddy/cybersoc-portfolio)** — MITRE-mapped analytics rules and SOAR playbooks (Logic Apps, Managed-Identity auth, no stored credentials)
-- **[sentinel-workbooks](https://github.com/TaruntejaDesireddy/sentinel-workbooks)** — Hunt & Investigate + SOC Overview dashboards, built against real lab data, not templates
+| Project | Description |
+|---|---|
+| [sentinel-soc-lab](https://github.com/TaruntejaDesireddy/sentinel-soc-lab) | Personal SIEM lab as Bicep IaC — workspace, connectors, DCRs, RBAC, one-command deploy, full build log |
+| [cybersoc-portfolio](https://github.com/TaruntejaDesireddy/cybersoc-portfolio) | MITRE-mapped analytics rules and SOAR playbooks — Logic Apps, managed-identity auth, no stored credentials |
+| [sentinel-workbooks](https://github.com/TaruntejaDesireddy/sentinel-workbooks) | Hunt & Investigate and SOC Overview dashboards, built against real lab data |
 
 Currently deepening: SOAR/Logic Apps automation, data connector configuration, Bicep/ARM, and working toward SC-300.
 
-## 🧰 Stack
+## Toolset
+
+`Microsoft Azure` · `KQL` · `Logic Apps` · `Bicep` · `Google SecOps (Chronicle)` · `Linux` · `Python` · `Bash` · `Git`
+
+## Certifications
+
+`AZ-500 — Azure Security Engineer Associate` · `SC-200 — Security Operations Analyst Associate` · `LRSA` · `LRPA` · `Google SecOps (Chronicle)`
+
+**SC-300 — in progress**
+
+## Activity
 
 <div align="center">
 
-![Azure](https://skillicons.dev/icons?i=azure,git,github,linux,bash,py&theme=light)
-
-</div>
-
-## 📜 Certifications
-
-<div align="center">
-
-`AZ-500` `SC-200` `LRSA` `LRPA` `Google SecOps (Chronicle)` — **SC-300 in progress**
-
-</div>
-
-## 📊 GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TaruntejaDesireddy&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaruntejaDesireddy&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TaruntejaDesireddy&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaruntejaDesireddy&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160"/>
 
 </div>
 
@@ -76,6 +62,6 @@ Currently deepening: SOAR/Logic Apps automation, data connector configuration, B
 
 <div align="center">
 
-<sub>Profile and pinned work kept current as I build — everything here is real, deployed, and tested, not a template dump.</sub>
+<sub>Everything linked here is real, deployed, and tested — not a template.</sub>
 
 </div>
