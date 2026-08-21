@@ -22,11 +22,19 @@ Security engineer specializing in **defensive operations on Microsoft Azure** �
 
 Proof of the SIEM side of the job: architecting and deploying from zero, not just operating on top of what a client already built.
 
-| Project | What it is |
+### [cybersoc-portfolio](https://github.com/TaruntejaDesireddy/cybersoc-portfolio) — a Sentinel SOC, end to end
+
+| Inside | What it is |
 |---|---|
-| **[cybersoc-portfolio](https://github.com/TaruntejaDesireddy/cybersoc-portfolio)** | Detection-and-response content mapped to MITRE ATT&CK — analytics rules paired with matching SOAR playbooks, authenticated end to end via managed identity |
-| **[sentinel-workbooks](https://github.com/TaruntejaDesireddy/sentinel-workbooks)** | Hunt & Investigate and SOC Overview dashboards built against genuine lab telemetry, not vendor sample data |
-| **sentinel-soc-lab** *(private)* | The underlying Bicep IaC deploy for the lab above — workspace, connectors, DCRs, RBAC, one command. Kept private since the build log documents real subscription and tenant details |
+| **Analytics rules** | 60 custom-authored scheduled rules — no gallery templates. Every one written against a table confirmed to be ingesting, because a rule that *cannot* fire is worse than no rule: it fakes coverage |
+| **SOAR playbooks** | Logic Apps for multi-source IP enrichment and containment — secrets in Key Vault, read at runtime via managed identity, never in the workflow |
+| **Workbooks** | Hunt & Investigate and SOC Overview dashboards, built against genuine lab telemetry rather than vendor sample data |
+| **Infrastructure** | Bicep IaC — workspace, Sentinel onboarding, and Data Collection Rules, deployable in one command |
+
+The containment playbook *recommends* rather than acts — disabling an account outright needs a
+tenant-wide `User.ReadWrite.All` grant on an unattended identity, and one false-positive High
+incident would lock out a real user with no human in the loop. That tradeoff is documented in
+the repo rather than glossed over.
 
 **Currently deepening:** SOAR/Logic Apps automation · data connector configuration · Bicep/ARM · working toward **SC-300**
 
