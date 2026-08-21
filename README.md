@@ -2,7 +2,7 @@
 
 # Tarun Teja Reddy
 
-**Senior Cyber Security Analyst · Microsoft Sentinel · Detection Engineering**
+**Blue Team Security Engineer · Microsoft Azure Security Specialist**
 
 
 [![AZ-500](https://img.shields.io/badge/AZ--500-Security%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
@@ -12,7 +12,6 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/-tarunteja.desireddy9%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarunteja.desireddy9@gmail.com)
-[![Location](https://img.shields.io/badge/-Doha%2C%20Qatar-000000?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -20,19 +19,19 @@
 
 ## 🛡️ What I actually do
 
-Day to day, this is real-incident work across a multi-tenant government/critical-infrastructure client base:
+Day-to-day blue team work: real-incident response across a multi-tenant government/critical-infrastructure client base, built on Microsoft Azure security tooling:
 
 | | |
 |---|---|
 | 🔎 **Incident investigation** | Confirmed compromises, BEC, lateral movement, honeytoken triggers |
 | 📝 **KQL detection engineering** | Analytics rules, NRT rules, entity mapping — written without AI assistance |
 | 🎯 **Threat hunting** | 58+ MITRE ATT&CK-mapped hunt packages |
-| 📊 **Sentinel workbooks** | Multi-tenant live dashboards, custom panels, IP pivot views |
+| 📊 **SIEM workbooks** | Multi-tenant live dashboards, custom panels, IP pivot views |
 | 🛰️ **Threat intel pipeline** | IOC ingestion, bulk import, dedup workflows |
 
 ## 🚀 What I'm building right now
 
-Closing the gaps a client-managed environment doesn't expose you to — deploying and architecting Sentinel from zero, not just operating on top of it:
+Closing the gaps a client-managed environment doesn't expose you to — deploying and architecting a SIEM from zero, not just operating on top of it:
 
 <div align="center">
 
@@ -42,7 +41,7 @@ Closing the gaps a client-managed environment doesn't expose you to — deployin
 
 </div>
 
-- **[sentinel-soc-lab](https://github.com/TaruntejaDesireddy/sentinel-soc-lab)** — a personal Sentinel SOC lab as Bicep IaC: workspace, connectors, DCRs, RBAC, one-command deploy, full build log with real gotchas
+- **[sentinel-soc-lab](https://github.com/TaruntejaDesireddy/sentinel-soc-lab)** — a personal SIEM lab as Bicep IaC: workspace, connectors, DCRs, RBAC, one-command deploy, full build log with real gotchas
 - **[cybersoc-portfolio](https://github.com/TaruntejaDesireddy/cybersoc-portfolio)** — MITRE-mapped analytics rules and SOAR playbooks (Logic Apps, Managed-Identity auth, no stored credentials)
 - **[sentinel-workbooks](https://github.com/TaruntejaDesireddy/sentinel-workbooks)** — Hunt & Investigate + SOC Overview dashboards, built against real lab data, not templates
 
