@@ -46,13 +46,11 @@ Security engineer specializing in **defensive operations on Microsoft Azure** �
 
 Deploying and architecting a SIEM from zero, not just operating on top of one — closing the gaps a client-managed environment doesn't expose you to.
 
-<div align="center">
-
-[![sentinel-soc-lab](https://github-readme-stats.vercel.app/api/pin/?username=TaruntejaDesireddy&repo=sentinel-soc-lab&theme=dark&hide_border=true)](https://github.com/TaruntejaDesireddy/sentinel-soc-lab)
-[![cybersoc-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=TaruntejaDesireddy&repo=cybersoc-portfolio&theme=dark&hide_border=true)](https://github.com/TaruntejaDesireddy/cybersoc-portfolio)
-[![sentinel-workbooks](https://github-readme-stats.vercel.app/api/pin/?username=TaruntejaDesireddy&repo=sentinel-workbooks&theme=dark&hide_border=true)](https://github.com/TaruntejaDesireddy/sentinel-workbooks)
-
-</div>
+| Project | Description |
+|---|---|
+| [sentinel-soc-lab](https://github.com/TaruntejaDesireddy/sentinel-soc-lab) | Personal SIEM lab as Bicep IaC — workspace, connectors, DCRs, RBAC, one-command deploy, full build log |
+| [cybersoc-portfolio](https://github.com/TaruntejaDesireddy/cybersoc-portfolio) | MITRE-mapped analytics rules and SOAR playbooks — Logic Apps, managed-identity auth, no stored credentials |
+| [sentinel-workbooks](https://github.com/TaruntejaDesireddy/sentinel-workbooks) | Hunt & Investigate and SOC Overview dashboards, built against real lab data |
 
 🔧 **Currently deepening:** SOAR/Logic Apps automation · Data connector configuration · Bicep/ARM · Working toward **SC-300**
 
@@ -88,31 +86,10 @@ Deploying and architecting a SIEM from zero, not just operating on top of one �
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TaruntejaDesireddy&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TaruntejaDesireddy&show_icons=true&count_private=true&hide_border=true&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaruntejaDesireddy&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub stats" height="165"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TaruntejaDesireddy&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TaruntejaDesireddy&layout=compact&hide_border=true&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaruntejaDesireddy&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
-</picture>
-
-<br/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TaruntejaDesireddy&theme=dark&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=TaruntejaDesireddy&theme=default&hide_border=true">
   <img src="https://streak-stats.demolab.com/?user=TaruntejaDesireddy&theme=default&hide_border=true" alt="GitHub streak"/>
 </picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TaruntejaDesireddy&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
 
 </div>
 
